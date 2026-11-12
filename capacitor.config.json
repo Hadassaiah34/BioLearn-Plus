@@ -1,0 +1,16 @@
+{
+  "appId": "com.biolearnplus.app",
+  "appName": "BioLearn Plus",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 1500,
+      "backgroundColor": "#047857",
+      "showSpinner": false
+    }
+  }
+}
