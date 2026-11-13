@@ -1,0 +1,140 @@
+{
+  "source": "BIOLOGY CURRICULUM.pdf uploaded scan; content map drafted using OCR-informed topic list. Verify exact sequence and official wording.",
+  "grades": {
+    "SS1": [
+      {
+        "theme": "Organisation of Life",
+        "topics": [
+          "Characteristics of living things",
+          "Levels of biological organisation",
+          "Classification and its importance",
+          "Kingdoms and broad groups of organisms",
+          "The microscope and biological drawings",
+          "Cell theory and cell diversity",
+          "Cell structures and functions",
+          "Diffusion, osmosis and active transport",
+          "Cell and its environment"
+        ]
+      },
+      {
+        "theme": "The Organism at Work",
+        "topics": [
+          "Support and movement in plants and animals",
+          "Nutrition in animals",
+          "Balanced diet and nutrients",
+          "Energy transformation and photosynthesis",
+          "Respiration and energy release",
+          "Biology and agriculture",
+          "Crop pests and diseases"
+        ]
+      },
+      {
+        "theme": "The Organism and its Environment",
+        "topics": [
+          "Ecological concepts",
+          "Ecosystem components and functions",
+          "Autotrophic and heterotrophic nutrition",
+          "Food chains, food webs and trophic levels",
+          "Ecological pyramids and energy flow"
+        ]
+      },
+      {
+        "theme": "Continuity of Life",
+        "topics": [
+          "Asexual and sexual reproduction",
+          "Reproductive systems in vertebrates",
+          "Reproduction in flowering plants",
+          "Seed and fruit formation"
+        ]
+      }
+    ],
+    "SS2": [
+      {
+        "theme": "Organisation of Life",
+        "topics": [
+          "Plant classification and major groups",
+          "Monocots and dicots: comparative features",
+          "Plant tissues and organs",
+          "Cell transport and plant water relations"
+        ]
+      },
+      {
+        "theme": "The Organism at Work",
+        "topics": [
+          "Digestive system: organs and processes",
+          "Digestive enzymes and chemical digestion",
+          "Absorption and assimilation",
+          "Transport in humans: blood and heart",
+          "Blood vessels and blood components",
+          "Transport in plants: xylem and phloem",
+          "Respiratory system and ventilation",
+          "Gas exchange and respiratory adaptations",
+          "Excretion in humans",
+          "Kidney structure and urine formation",
+          "Excretion in plants"
+        ]
+      },
+      {
+        "theme": "The Organism and its Environment",
+        "topics": [
+          "Carbon cycle",
+          "Nitrogen cycle",
+          "Water cycle and nutrient cycling",
+          "Ecological associations",
+          "Adaptation and tolerance",
+          "Pollution: sources and effects",
+          "Conservation of natural resources"
+        ]
+      },
+      {
+        "theme": "Continuity of Life",
+        "topics": [
+          "Vertebrate reproduction and development",
+          "Pollination and fertilisation in flowering plants",
+          "Seed dispersal and germination"
+        ]
+      }
+    ],
+    "SS3": [
+      {
+        "theme": "The Organism at Work",
+        "topics": [
+          "Homeostasis and negative feedback",
+          "Temperature regulation in humans",
+          "Water and salt balance",
+          "Blood glucose regulation",
+          "Nervous coordination: neurones and impulses",
+          "Reflex actions and reflex arc",
+          "Central and peripheral nervous systems",
+          "Endocrine coordination"
+        ]
+      },
+      {
+        "theme": "The Organism and its Environment",
+        "topics": [
+          "Population ecology: size and density",
+          "Population growth and limiting factors",
+          "Sampling populations",
+          "Succession and ecosystem change",
+          "Human impacts and environmental management",
+          "Biodiversity and sustainable development"
+        ]
+      },
+      {
+        "theme": "Continuity of Life",
+        "topics": [
+          "Human reproductive system: structures and functions",
+          "Menstrual cycle and hormonal regulation",
+          "Fertilisation, pregnancy and development",
+          "Reproductive health and responsible health decisions",
+          "Plant pollination: agents and adaptations",
+          "Development of seeds and fruits",
+          "Genetics: variation and inheritance",
+          "Mitosis and meiosis",
+          "Evolution and natural selection",
+          "Biotechnology and applications of Biology"
+        ]
+      }
+    ]
+  }
+}
